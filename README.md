@@ -34,7 +34,7 @@ receives such a request.
 
 Instruction to run file
 
-1.Open 6 terminal and locate each file 
+1.Open 6 terminal and locate each file.
 
 2.store file in fileowner which is to be transfered
 
