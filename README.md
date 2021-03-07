@@ -33,10 +33,17 @@ chunk, receives a chunk ID list, sends out a chunk ID list, requests for chunks,
 receives such a request. 
 
 Instruction to run file
+
 1.Open 6 terminal and locate each file 
+
 2.store file in fileowner which is to be transfered
+
 3.In fileOwner terminal type python FileOwner.py 5000
+
 4.In peer 1 type python peer.py 5000 5001 5002 same in peer 2 type python peer.py 5000 5002 5003
+
 5.in peer 3 type python peer.py 5000 5003 5004 similarly for 4 type python peer.py 5000 5004 5005 and 5 type python peer.py 5000 5005 5001
+
 6.After this run all file simultaneously so it will transfer file in each of the peer
+
 7.This is also can be done in different computer also .
